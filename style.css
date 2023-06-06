@@ -1,4 +1,4 @@
-/* 設置盒子模型 */
+子模型 */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -66,15 +66,15 @@ button:focus {
   border-radius: .75rem;
   font-size: 2rem;
   height: 6rem;
-  color: #fff;
-  background: #333849;
+  color: #333849;
+  background: #FFFFE0;
   text-align: end;
   padding: .5rem;
 }
 
 /* 設置輸入框預設文字的顏色 */
 ::placeholder {
-  color: #fff;
+  color: #ffb6c1;
 }
 
 /* 設置符號按鈕和數字按鈕的樣式 */
@@ -85,7 +85,7 @@ button:focus {
   text-align: center;
   aspect-ratio: 1;
   font-size: 1.25rem;
-  color: #fff;
+  color: #ffb6c1;
   border-radius: 50%;
   transition: .15s ease;
 }
